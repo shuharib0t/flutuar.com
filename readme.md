@@ -1,0 +1,1 @@
+OBS: como eu coloquei o position fixed no wave, eu acabei adicionando um margin-bottom de 150px no #footer para melhor responsividade com outros aparelhos.
